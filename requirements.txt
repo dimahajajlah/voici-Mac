@@ -1,0 +1,6 @@
+# Pinned for Intel Macs: torch 2.2.2 is the last PyTorch build for macOS x86_64.
+coqui-tts==0.25.3
+torch==2.2.2
+torchaudio==2.2.2
+numpy<2
+transformers==4.46.2
